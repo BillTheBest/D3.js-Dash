@@ -1,0 +1,1001 @@
+CLASS,DIAGNOSIS,HIPPA,"SHORT DESCRIPTION","LONG DESCRIPTION",TYPE
+A00,A00,0,Cholera,Cholera,Dx
+A00,A000,1,"Cholera due to Vibrio cholerae 01 biovar cholerae","Cholera due to Vibrio cholerae 01 biovar cholerae",Dx
+A00,A001,1,"Cholera due to Vibrio cholerae 01 biovar eltor","Cholera due to Vibrio cholerae 01 biovar eltor",Dx
+A00,A009,1,"Cholera unspecified","Cholera unspecified",Dx
+A01,A01,0,"Typhoid and paratyphoid fevers","Typhoid and paratyphoid fevers",Dx
+A01,A010,0,"Typhoid fever","Typhoid fever",Dx
+A01,A0100,1,"Typhoid fever unspecified","Typhoid fever unspecified",Dx
+A01,A0101,1,"Typhoid meningitis","Typhoid meningitis",Dx
+A01,A0102,1,"Typhoid fever with heart involvement","Typhoid fever with heart involvement",Dx
+A01,A0103,1,"Typhoid pneumonia","Typhoid pneumonia",Dx
+A01,A0104,1,"Typhoid arthritis","Typhoid arthritis",Dx
+A01,A0105,1,"Typhoid osteomyelitis","Typhoid osteomyelitis",Dx
+A01,A0109,1,"Typhoid fever with other complications","Typhoid fever with other complications",Dx
+A01,A011,1,"Paratyphoid fever A","Paratyphoid fever A",Dx
+A01,A012,1,"Paratyphoid fever B","Paratyphoid fever B",Dx
+A01,A013,1,"Paratyphoid fever C","Paratyphoid fever C",Dx
+A01,A014,1,"Paratyphoid fever unspecified","Paratyphoid fever unspecified",Dx
+A02,A02,0,"Other salmonella infections","Other salmonella infections",Dx
+A02,A020,1,"Salmonella enteritis","Salmonella enteritis",Dx
+A02,A021,1,"Salmonella sepsis","Salmonella sepsis",Dx
+A02,A022,0,"Localized salmonella infections","Localized salmonella infections",Dx
+A02,A0220,1,"Localized salmonella infection unspecified","Localized salmonella infection unspecified",Dx
+A02,A0221,1,"Salmonella meningitis","Salmonella meningitis",Dx
+A02,A0222,1,"Salmonella pneumonia","Salmonella pneumonia",Dx
+A02,A0223,1,"Salmonella arthritis","Salmonella arthritis",Dx
+A02,A0224,1,"Salmonella osteomyelitis","Salmonella osteomyelitis",Dx
+A02,A0225,1,"Salmonella pyelonephritis","Salmonella pyelonephritis",Dx
+A02,A0229,1,"Salmonella with other localized infection","Salmonella with other localized infection",Dx
+A02,A028,1,"Other specified salmonella infections","Other specified salmonella infections",Dx
+A02,A029,1,"Salmonella infection unspecified","Salmonella infection unspecified",Dx
+A03,A03,0,Shigellosis,Shigellosis,Dx
+A03,A030,1,"Shigellosis due to Shigella dysenteriae","Shigellosis due to Shigella dysenteriae",Dx
+A03,A031,1,"Shigellosis due to Shigella flexneri","Shigellosis due to Shigella flexneri",Dx
+A03,A032,1,"Shigellosis due to Shigella boydii","Shigellosis due to Shigella boydii",Dx
+A03,A033,1,"Shigellosis due to Shigella sonnei","Shigellosis due to Shigella sonnei",Dx
+A03,A038,1,"Other shigellosis","Other shigellosis",Dx
+A03,A039,1,"Shigellosis unspecified","Shigellosis unspecified",Dx
+A04,A04,0,"Other bacterial intestinal infections","Other bacterial intestinal infections",Dx
+A04,A040,1,"Enteropathogenic Escherichia coli infection","Enteropathogenic Escherichia coli infection",Dx
+A04,A041,1,"Enterotoxigenic Escherichia coli infection","Enterotoxigenic Escherichia coli infection",Dx
+A04,A042,1,"Enteroinvasive Escherichia coli infection","Enteroinvasive Escherichia coli infection",Dx
+A04,A043,1,"Enterohemorrhagic Escherichia coli infection","Enterohemorrhagic Escherichia coli infection",Dx
+A04,A044,1,"Other intestinal Escherichia coli infections","Other intestinal Escherichia coli infections",Dx
+A04,A045,1,"Campylobacter enteritis","Campylobacter enteritis",Dx
+A04,A046,1,"Enteritis due to Yersinia enterocolitica","Enteritis due to Yersinia enterocolitica",Dx
+A04,A047,1,"Enterocolitis due to Clostridium difficile","Enterocolitis due to Clostridium difficile",Dx
+A04,A048,1,"Other specified bacterial intestinal infections","Other specified bacterial intestinal infections",Dx
+A04,A049,1,"Bacterial intestinal infection unspecified","Bacterial intestinal infection unspecified",Dx
+A05,A05,0,"Oth bacterial foodborne intoxications NEC","Other bacterial foodborne intoxications not elsewhere classified",Dx
+A05,A050,1,"Foodborne staphylococcal intoxication","Foodborne staphylococcal intoxication",Dx
+A05,A051,1,"Botulism food poisoning","Botulism food poisoning",Dx
+A05,A052,1,"Foodborne Clostridium perfringens intoxication","Foodborne Clostridium perfringens [Clostridium welchii] intoxication",Dx
+A05,A053,1,"Foodborne Vibrio parahaemolyticus intoxication","Foodborne Vibrio parahaemolyticus intoxication",Dx
+A05,A054,1,"Foodborne Bacillus cereus intoxication","Foodborne Bacillus cereus intoxication",Dx
+A05,A055,1,"Foodborne Vibrio vulnificus intoxication","Foodborne Vibrio vulnificus intoxication",Dx
+A05,A058,1,"Other specified bacterial foodborne intoxications","Other specified bacterial foodborne intoxications",Dx
+A05,A059,1,"Bacterial foodborne intoxication unspecified","Bacterial foodborne intoxication unspecified",Dx
+A06,A06,0,Amebiasis,Amebiasis,Dx
+A06,A060,1,"Acute amebic dysentery","Acute amebic dysentery",Dx
+A06,A061,1,"Chronic intestinal amebiasis","Chronic intestinal amebiasis",Dx
+A06,A062,1,"Amebic nondysenteric colitis","Amebic nondysenteric colitis",Dx
+A06,A063,1,"Ameboma of intestine","Ameboma of intestine",Dx
+A06,A064,1,"Amebic liver abscess","Amebic liver abscess",Dx
+A06,A065,1,"Amebic lung abscess","Amebic lung abscess",Dx
+A06,A066,1,"Amebic brain abscess","Amebic brain abscess",Dx
+A06,A067,1,"Cutaneous amebiasis","Cutaneous amebiasis",Dx
+A06,A068,0,"Amebic infection of other sites","Amebic infection of other sites",Dx
+A06,A0681,1,"Amebic cystitis","Amebic cystitis",Dx
+A06,A0682,1,"Other amebic genitourinary infections","Other amebic genitourinary infections",Dx
+A06,A0689,1,"Other amebic infections","Other amebic infections",Dx
+A06,A069,1,"Amebiasis unspecified","Amebiasis unspecified",Dx
+A07,A07,0,"Other protozoal intestinal diseases","Other protozoal intestinal diseases",Dx
+A07,A070,1,Balantidiasis,Balantidiasis,Dx
+A07,A071,1,"Giardiasis [lambliasis]","Giardiasis [lambliasis]",Dx
+A07,A072,1,Cryptosporidiosis,Cryptosporidiosis,Dx
+A07,A073,1,Isosporiasis,Isosporiasis,Dx
+A07,A074,1,Cyclosporiasis,Cyclosporiasis,Dx
+A07,A078,1,"Other specified protozoal intestinal diseases","Other specified protozoal intestinal diseases",Dx
+A07,A079,1,"Protozoal intestinal disease unspecified","Protozoal intestinal disease unspecified",Dx
+A08,A08,0,"Viral and other specified intestinal infections","Viral and other specified intestinal infections",Dx
+A08,A080,1,"Rotaviral enteritis","Rotaviral enteritis",Dx
+A08,A081,0,"Acute gastrent d/t Norwalk agent and oth small round viruses","Acute gastroenteropathy due to Norwalk agent and other small round viruses",Dx
+A08,A0811,1,"Acute gastroenteropathy due to Norwalk agent","Acute gastroenteropathy due to Norwalk agent",Dx
+A08,A0819,1,"Acute gastroenteropathy due to other small round viruses","Acute gastroenteropathy due to other small round viruses",Dx
+A08,A082,1,"Adenoviral enteritis","Adenoviral enteritis",Dx
+A08,A083,0,"Other viral enteritis","Other viral enteritis",Dx
+A08,A0831,1,"Calicivirus enteritis","Calicivirus enteritis",Dx
+A08,A0832,1,"Astrovirus enteritis","Astrovirus enteritis",Dx
+A08,A0839,1,"Other viral enteritis","Other viral enteritis",Dx
+A08,A084,1,"Viral intestinal infection unspecified","Viral intestinal infection unspecified",Dx
+A08,A088,1,"Other specified intestinal infections","Other specified intestinal infections",Dx
+A09,A09,1,"Infectious gastroenteritis and colitis unspecified","Infectious gastroenteritis and colitis unspecified",Dx
+A15,A15,0,"Respiratory tuberculosis","Respiratory tuberculosis",Dx
+A15,A150,1,"Tuberculosis of lung","Tuberculosis of lung",Dx
+A15,A154,1,"Tuberculosis of intrathoracic lymph nodes","Tuberculosis of intrathoracic lymph nodes",Dx
+A15,A155,1,"Tuberculosis of larynx trachea and bronchus","Tuberculosis of larynx trachea and bronchus",Dx
+A15,A156,1,"Tuberculous pleurisy","Tuberculous pleurisy",Dx
+A15,A157,1,"Primary respiratory tuberculosis","Primary respiratory tuberculosis",Dx
+A15,A158,1,"Other respiratory tuberculosis","Other respiratory tuberculosis",Dx
+A15,A159,1,"Respiratory tuberculosis unspecified","Respiratory tuberculosis unspecified",Dx
+A17,A17,0,"Tuberculosis of nervous system","Tuberculosis of nervous system",Dx
+A17,A170,1,"Tuberculous meningitis","Tuberculous meningitis",Dx
+A17,A171,1,"Meningeal tuberculoma","Meningeal tuberculoma",Dx
+A17,A178,0,"Other tuberculosis of nervous system","Other tuberculosis of nervous system",Dx
+A17,A1781,1,"Tuberculoma of brain and spinal cord","Tuberculoma of brain and spinal cord",Dx
+A17,A1782,1,"Tuberculous meningoencephalitis","Tuberculous meningoencephalitis",Dx
+A17,A1783,1,"Tuberculous neuritis","Tuberculous neuritis",Dx
+A17,A1789,1,"Other tuberculosis of nervous system","Other tuberculosis of nervous system",Dx
+A17,A179,1,"Tuberculosis of nervous system unspecified","Tuberculosis of nervous system unspecified",Dx
+A18,A18,0,"Tuberculosis of other organs","Tuberculosis of other organs",Dx
+A18,A180,0,"Tuberculosis of bones and joints","Tuberculosis of bones and joints",Dx
+A18,A1801,1,"Tuberculosis of spine","Tuberculosis of spine",Dx
+A18,A1802,1,"Tuberculous arthritis of other joints","Tuberculous arthritis of other joints",Dx
+A18,A1803,1,"Tuberculosis of other bones","Tuberculosis of other bones",Dx
+A18,A1809,1,"Other musculoskeletal tuberculosis","Other musculoskeletal tuberculosis",Dx
+A18,A181,0,"Tuberculosis of genitourinary system","Tuberculosis of genitourinary system",Dx
+A18,A1810,1,"Tuberculosis of genitourinary system unspecified","Tuberculosis of genitourinary system unspecified",Dx
+A18,A1811,1,"Tuberculosis of kidney and ureter","Tuberculosis of kidney and ureter",Dx
+A18,A1812,1,"Tuberculosis of bladder","Tuberculosis of bladder",Dx
+A18,A1813,1,"Tuberculosis of other urinary organs","Tuberculosis of other urinary organs",Dx
+A18,A1814,1,"Tuberculosis of prostate","Tuberculosis of prostate",Dx
+A18,A1815,1,"Tuberculosis of other male genital organs","Tuberculosis of other male genital organs",Dx
+A18,A1816,1,"Tuberculosis of cervix","Tuberculosis of cervix",Dx
+A18,A1817,1,"Tuberculous female pelvic inflammatory disease","Tuberculous female pelvic inflammatory disease",Dx
+A18,A1818,1,"Tuberculosis of other female genital organs","Tuberculosis of other female genital organs",Dx
+A18,A182,1,"Tuberculous peripheral lymphadenopathy","Tuberculous peripheral lymphadenopathy",Dx
+A18,A183,0,"Tuberculosis of intestines peritoneum and mesenteric glands","Tuberculosis of intestines peritoneum and mesenteric glands",Dx
+A18,A1831,1,"Tuberculous peritonitis","Tuberculous peritonitis",Dx
+A18,A1832,1,"Tuberculous enteritis","Tuberculous enteritis",Dx
+A18,A1839,1,"Retroperitoneal tuberculosis","Retroperitoneal tuberculosis",Dx
+A18,A184,1,"Tuberculosis of skin and subcutaneous tissue","Tuberculosis of skin and subcutaneous tissue",Dx
+A18,A185,0,"Tuberculosis of eye","Tuberculosis of eye",Dx
+A18,A1850,1,"Tuberculosis of eye unspecified","Tuberculosis of eye unspecified",Dx
+A18,A1851,1,"Tuberculous episcleritis","Tuberculous episcleritis",Dx
+A18,A1852,1,"Tuberculous keratitis","Tuberculous keratitis",Dx
+A18,A1853,1,"Tuberculous chorioretinitis","Tuberculous chorioretinitis",Dx
+A18,A1854,1,"Tuberculous iridocyclitis","Tuberculous iridocyclitis",Dx
+A18,A1859,1,"Other tuberculosis of eye","Other tuberculosis of eye",Dx
+A18,A186,1,"Tuberculosis of (inner) (middle) ear","Tuberculosis of (inner) (middle) ear",Dx
+A18,A187,1,"Tuberculosis of adrenal glands","Tuberculosis of adrenal glands",Dx
+A18,A188,0,"Tuberculosis of other specified organs","Tuberculosis of other specified organs",Dx
+A18,A1881,1,"Tuberculosis of thyroid gland","Tuberculosis of thyroid gland",Dx
+A18,A1882,1,"Tuberculosis of other endocrine glands","Tuberculosis of other endocrine glands",Dx
+A18,A1883,1,"Tuberculosis of digestive tract organs NEC","Tuberculosis of digestive tract organs not elsewhere classified",Dx
+A18,A1884,1,"Tuberculosis of heart","Tuberculosis of heart",Dx
+A18,A1885,1,"Tuberculosis of spleen","Tuberculosis of spleen",Dx
+A18,A1889,1,"Tuberculosis of other sites","Tuberculosis of other sites",Dx
+A19,A19,0,"Miliary tuberculosis","Miliary tuberculosis",Dx
+A19,A190,1,"Acute miliary tuberculosis of a single specified site","Acute miliary tuberculosis of a single specified site",Dx
+A19,A191,1,"Acute miliary tuberculosis of multiple sites","Acute miliary tuberculosis of multiple sites",Dx
+A19,A192,1,"Acute miliary tuberculosis unspecified","Acute miliary tuberculosis unspecified",Dx
+A19,A198,1,"Other miliary tuberculosis","Other miliary tuberculosis",Dx
+A19,A199,1,"Miliary tuberculosis unspecified","Miliary tuberculosis unspecified",Dx
+A20,A20,0,Plague,Plague,Dx
+A20,A200,1,"Bubonic plague","Bubonic plague",Dx
+A20,A201,1,"Cellulocutaneous plague","Cellulocutaneous plague",Dx
+A20,A202,1,"Pneumonic plague","Pneumonic plague",Dx
+A20,A203,1,"Plague meningitis","Plague meningitis",Dx
+A20,A207,1,"Septicemic plague","Septicemic plague",Dx
+A20,A208,1,"Other forms of plague","Other forms of plague",Dx
+A20,A209,1,"Plague unspecified","Plague unspecified",Dx
+A21,A21,0,Tularemia,Tularemia,Dx
+A21,A210,1,"Ulceroglandular tularemia","Ulceroglandular tularemia",Dx
+A21,A211,1,"Oculoglandular tularemia","Oculoglandular tularemia",Dx
+A21,A212,1,"Pulmonary tularemia","Pulmonary tularemia",Dx
+A21,A213,1,"Gastrointestinal tularemia","Gastrointestinal tularemia",Dx
+A21,A217,1,"Generalized tularemia","Generalized tularemia",Dx
+A21,A218,1,"Other forms of tularemia","Other forms of tularemia",Dx
+A21,A219,1,"Tularemia unspecified","Tularemia unspecified",Dx
+A22,A22,0,Anthrax,Anthrax,Dx
+A22,A220,1,"Cutaneous anthrax","Cutaneous anthrax",Dx
+A22,A221,1,"Pulmonary anthrax","Pulmonary anthrax",Dx
+A22,A222,1,"Gastrointestinal anthrax","Gastrointestinal anthrax",Dx
+A22,A227,1,"Anthrax sepsis","Anthrax sepsis",Dx
+A22,A228,1,"Other forms of anthrax","Other forms of anthrax",Dx
+A22,A229,1,"Anthrax unspecified","Anthrax unspecified",Dx
+A23,A23,0,Brucellosis,Brucellosis,Dx
+A23,A230,1,"Brucellosis due to Brucella melitensis","Brucellosis due to Brucella melitensis",Dx
+A23,A231,1,"Brucellosis due to Brucella abortus","Brucellosis due to Brucella abortus",Dx
+A23,A232,1,"Brucellosis due to Brucella suis","Brucellosis due to Brucella suis",Dx
+A23,A233,1,"Brucellosis due to Brucella canis","Brucellosis due to Brucella canis",Dx
+A23,A238,1,"Other brucellosis","Other brucellosis",Dx
+A23,A239,1,"Brucellosis unspecified","Brucellosis unspecified",Dx
+A24,A24,0,"Glanders and melioidosis","Glanders and melioidosis",Dx
+A24,A240,1,Glanders,Glanders,Dx
+A24,A241,1,"Acute and fulminating melioidosis","Acute and fulminating melioidosis",Dx
+A24,A242,1,"Subacute and chronic melioidosis","Subacute and chronic melioidosis",Dx
+A24,A243,1,"Other melioidosis","Other melioidosis",Dx
+A24,A249,1,"Melioidosis unspecified","Melioidosis unspecified",Dx
+A25,A25,0,"Rat-bite fevers","Rat-bite fevers",Dx
+A25,A250,1,Spirillosis,Spirillosis,Dx
+A25,A251,1,Streptobacillosis,Streptobacillosis,Dx
+A25,A259,1,"Rat-bite fever unspecified","Rat-bite fever unspecified",Dx
+A26,A26,0,Erysipeloid,Erysipeloid,Dx
+A26,A260,1,"Cutaneous erysipeloid","Cutaneous erysipeloid",Dx
+A26,A267,1,"Erysipelothrix sepsis","Erysipelothrix sepsis",Dx
+A26,A268,1,"Other forms of erysipeloid","Other forms of erysipeloid",Dx
+A26,A269,1,"Erysipeloid unspecified","Erysipeloid unspecified",Dx
+A27,A27,0,Leptospirosis,Leptospirosis,Dx
+A27,A270,1,"Leptospirosis icterohemorrhagica","Leptospirosis icterohemorrhagica",Dx
+A27,A278,0,"Other forms of leptospirosis","Other forms of leptospirosis",Dx
+A27,A2781,1,"Aseptic meningitis in leptospirosis","Aseptic meningitis in leptospirosis",Dx
+A27,A2789,1,"Other forms of leptospirosis","Other forms of leptospirosis",Dx
+A27,A279,1,"Leptospirosis unspecified","Leptospirosis unspecified",Dx
+A28,A28,0,"Other zoonotic bacterial diseases not elsewhere classified","Other zoonotic bacterial diseases not elsewhere classified",Dx
+A28,A280,1,Pasteurellosis,Pasteurellosis,Dx
+A28,A281,1,"Cat-scratch disease","Cat-scratch disease",Dx
+A28,A282,1,"Extraintestinal yersiniosis","Extraintestinal yersiniosis",Dx
+A28,A288,1,"Oth zoonotic bacterial diseases not elsewhere classified","Other specified zoonotic bacterial diseases not elsewhere classified",Dx
+A28,A289,1,"Zoonotic bacterial disease unspecified","Zoonotic bacterial disease unspecified",Dx
+A30,A30,0,"Leprosy [Hansen's disease]","Leprosy [Hansen's disease]",Dx
+A30,A300,1,"Indeterminate leprosy","Indeterminate leprosy",Dx
+A30,A301,1,"Tuberculoid leprosy","Tuberculoid leprosy",Dx
+A30,A302,1,"Borderline tuberculoid leprosy","Borderline tuberculoid leprosy",Dx
+A30,A303,1,"Borderline leprosy","Borderline leprosy",Dx
+A30,A304,1,"Borderline lepromatous leprosy","Borderline lepromatous leprosy",Dx
+A30,A305,1,"Lepromatous leprosy","Lepromatous leprosy",Dx
+A30,A308,1,"Other forms of leprosy","Other forms of leprosy",Dx
+A30,A309,1,"Leprosy unspecified","Leprosy unspecified",Dx
+A31,A31,0,"Infection due to other mycobacteria","Infection due to other mycobacteria",Dx
+A31,A310,1,"Pulmonary mycobacterial infection","Pulmonary mycobacterial infection",Dx
+A31,A311,1,"Cutaneous mycobacterial infection","Cutaneous mycobacterial infection",Dx
+A31,A312,1,"Dissem mycobacterium avium-intracellulare complex (DMAC)","Disseminated mycobacterium avium-intracellulare complex (DMAC)",Dx
+A31,A318,1,"Other mycobacterial infections","Other mycobacterial infections",Dx
+A31,A319,1,"Mycobacterial infection unspecified","Mycobacterial infection unspecified",Dx
+A32,A32,0,Listeriosis,Listeriosis,Dx
+A32,A320,1,"Cutaneous listeriosis","Cutaneous listeriosis",Dx
+A32,A321,0,"Listerial meningitis and meningoencephalitis","Listerial meningitis and meningoencephalitis",Dx
+A32,A3211,1,"Listerial meningitis","Listerial meningitis",Dx
+A32,A3212,1,"Listerial meningoencephalitis","Listerial meningoencephalitis",Dx
+A32,A327,1,"Listerial sepsis","Listerial sepsis",Dx
+A32,A328,0,"Other forms of listeriosis","Other forms of listeriosis",Dx
+A32,A3281,1,"Oculoglandular listeriosis","Oculoglandular listeriosis",Dx
+A32,A3282,1,"Listerial endocarditis","Listerial endocarditis",Dx
+A32,A3289,1,"Other forms of listeriosis","Other forms of listeriosis",Dx
+A32,A329,1,"Listeriosis unspecified","Listeriosis unspecified",Dx
+A33,A33,1,"Tetanus neonatorum","Tetanus neonatorum",Dx
+A34,A34,1,"Obstetrical tetanus","Obstetrical tetanus",Dx
+A35,A35,1,"Other tetanus","Other tetanus",Dx
+A36,A36,0,Diphtheria,Diphtheria,Dx
+A36,A360,1,"Pharyngeal diphtheria","Pharyngeal diphtheria",Dx
+A36,A361,1,"Nasopharyngeal diphtheria","Nasopharyngeal diphtheria",Dx
+A36,A362,1,"Laryngeal diphtheria","Laryngeal diphtheria",Dx
+A36,A363,1,"Cutaneous diphtheria","Cutaneous diphtheria",Dx
+A36,A368,0,"Other diphtheria","Other diphtheria",Dx
+A36,A3681,1,"Diphtheritic cardiomyopathy","Diphtheritic cardiomyopathy",Dx
+A36,A3682,1,"Diphtheritic radiculomyelitis","Diphtheritic radiculomyelitis",Dx
+A36,A3683,1,"Diphtheritic polyneuritis","Diphtheritic polyneuritis",Dx
+A36,A3684,1,"Diphtheritic tubulo-interstitial nephropathy","Diphtheritic tubulo-interstitial nephropathy",Dx
+A36,A3685,1,"Diphtheritic cystitis","Diphtheritic cystitis",Dx
+A36,A3686,1,"Diphtheritic conjunctivitis","Diphtheritic conjunctivitis",Dx
+A36,A3689,1,"Other diphtheritic complications","Other diphtheritic complications",Dx
+A36,A369,1,"Diphtheria unspecified","Diphtheria unspecified",Dx
+A37,A37,0,"Whooping cough","Whooping cough",Dx
+A37,A370,0,"Whooping cough due to Bordetella pertussis","Whooping cough due to Bordetella pertussis",Dx
+A37,A3700,1,"Whooping cough due to Bordetella pertussis without pneumonia","Whooping cough due to Bordetella pertussis without pneumonia",Dx
+A37,A3701,1,"Whooping cough due to Bordetella pertussis with pneumonia","Whooping cough due to Bordetella pertussis with pneumonia",Dx
+A37,A371,0,"Whooping cough due to Bordetella parapertussis","Whooping cough due to Bordetella parapertussis",Dx
+A37,A3710,1,"Whooping cough due to Bordetella parapertussis w/o pneumonia","Whooping cough due to Bordetella parapertussis without pneumonia",Dx
+A37,A3711,1,"Whooping cough due to Bordetella parapertussis w pneumonia","Whooping cough due to Bordetella parapertussis with pneumonia",Dx
+A37,A378,0,"Whooping cough due to other Bordetella species","Whooping cough due to other Bordetella species",Dx
+A37,A3780,1,"Whooping cough due to other Bordetella species w/o pneumonia","Whooping cough due to other Bordetella species without pneumonia",Dx
+A37,A3781,1,"Whooping cough due to oth Bordetella species with pneumonia","Whooping cough due to other Bordetella species with pneumonia",Dx
+A37,A379,0,"Whooping cough unspecified species","Whooping cough unspecified species",Dx
+A37,A3790,1,"Whooping cough unspecified species without pneumonia","Whooping cough unspecified species without pneumonia",Dx
+A37,A3791,1,"Whooping cough unspecified species with pneumonia","Whooping cough unspecified species with pneumonia",Dx
+A38,A38,0,"Scarlet fever","Scarlet fever",Dx
+A38,A380,1,"Scarlet fever with otitis media","Scarlet fever with otitis media",Dx
+A38,A381,1,"Scarlet fever with myocarditis","Scarlet fever with myocarditis",Dx
+A38,A388,1,"Scarlet fever with other complications","Scarlet fever with other complications",Dx
+A38,A389,1,"Scarlet fever uncomplicated","Scarlet fever uncomplicated",Dx
+A39,A39,0,"Meningococcal infection","Meningococcal infection",Dx
+A39,A390,1,"Meningococcal meningitis","Meningococcal meningitis",Dx
+A39,A391,1,"Waterhouse-Friderichsen syndrome","Waterhouse-Friderichsen syndrome",Dx
+A39,A392,1,"Acute meningococcemia","Acute meningococcemia",Dx
+A39,A393,1,"Chronic meningococcemia","Chronic meningococcemia",Dx
+A39,A394,1,"Meningococcemia unspecified","Meningococcemia unspecified",Dx
+A39,A395,0,"Meningococcal heart disease","Meningococcal heart disease",Dx
+A39,A3950,1,"Meningococcal carditis unspecified","Meningococcal carditis unspecified",Dx
+A39,A3951,1,"Meningococcal endocarditis","Meningococcal endocarditis",Dx
+A39,A3952,1,"Meningococcal myocarditis","Meningococcal myocarditis",Dx
+A39,A3953,1,"Meningococcal pericarditis","Meningococcal pericarditis",Dx
+A39,A398,0,"Other meningococcal infections","Other meningococcal infections",Dx
+A39,A3981,1,"Meningococcal encephalitis","Meningococcal encephalitis",Dx
+A39,A3982,1,"Meningococcal retrobulbar neuritis","Meningococcal retrobulbar neuritis",Dx
+A39,A3983,1,"Meningococcal arthritis","Meningococcal arthritis",Dx
+A39,A3984,1,"Postmeningococcal arthritis","Postmeningococcal arthritis",Dx
+A39,A3989,1,"Other meningococcal infections","Other meningococcal infections",Dx
+A39,A399,1,"Meningococcal infection unspecified","Meningococcal infection unspecified",Dx
+A40,A40,0,"Streptococcal sepsis","Streptococcal sepsis",Dx
+A40,A400,1,"Sepsis due to streptococcus group A","Sepsis due to streptococcus group A",Dx
+A40,A401,1,"Sepsis due to streptococcus group B","Sepsis due to streptococcus group B",Dx
+A40,A403,1,"Sepsis due to Streptococcus pneumoniae","Sepsis due to Streptococcus pneumoniae",Dx
+A40,A408,1,"Other streptococcal sepsis","Other streptococcal sepsis",Dx
+A40,A409,1,"Streptococcal sepsis unspecified","Streptococcal sepsis unspecified",Dx
+A41,A41,0,"Other sepsis","Other sepsis",Dx
+A41,A410,0,"Sepsis due to Staphylococcus aureus","Sepsis due to Staphylococcus aureus",Dx
+A41,A4101,1,"Sepsis due to Methicillin susceptible Staphylococcus aureus","Sepsis due to Methicillin susceptible Staphylococcus aureus",Dx
+A41,A4102,1,"Sepsis due to Methicillin resistant Staphylococcus aureus","Sepsis due to Methicillin resistant Staphylococcus aureus",Dx
+A41,A411,1,"Sepsis due to other specified staphylococcus","Sepsis due to other specified staphylococcus",Dx
+A41,A412,1,"Sepsis due to unspecified staphylococcus","Sepsis due to unspecified staphylococcus",Dx
+A41,A413,1,"Sepsis due to Hemophilus influenzae","Sepsis due to Hemophilus influenzae",Dx
+A41,A414,1,"Sepsis due to anaerobes","Sepsis due to anaerobes",Dx
+A41,A415,0,"Sepsis due to other Gram-negative organisms","Sepsis due to other Gram-negative organisms",Dx
+A41,A4150,1,"Gram-negative sepsis unspecified","Gram-negative sepsis unspecified",Dx
+A41,A4151,1,"Sepsis due to Escherichia coli [E. coli]","Sepsis due to Escherichia coli [E. coli]",Dx
+A41,A4152,1,"Sepsis due to Pseudomonas","Sepsis due to Pseudomonas",Dx
+A41,A4153,1,"Sepsis due to Serratia","Sepsis due to Serratia",Dx
+A41,A4159,1,"Other Gram-negative sepsis","Other Gram-negative sepsis",Dx
+A41,A418,0,"Other specified sepsis","Other specified sepsis",Dx
+A41,A4181,1,"Sepsis due to Enterococcus","Sepsis due to Enterococcus",Dx
+A41,A4189,1,"Other specified sepsis","Other specified sepsis",Dx
+A41,A419,1,"Sepsis unspecified organism","Sepsis unspecified organism",Dx
+A42,A42,0,Actinomycosis,Actinomycosis,Dx
+A42,A420,1,"Pulmonary actinomycosis","Pulmonary actinomycosis",Dx
+A42,A421,1,"Abdominal actinomycosis","Abdominal actinomycosis",Dx
+A42,A422,1,"Cervicofacial actinomycosis","Cervicofacial actinomycosis",Dx
+A42,A427,1,"Actinomycotic sepsis","Actinomycotic sepsis",Dx
+A42,A428,0,"Other forms of actinomycosis","Other forms of actinomycosis",Dx
+A42,A4281,1,"Actinomycotic meningitis","Actinomycotic meningitis",Dx
+A42,A4282,1,"Actinomycotic encephalitis","Actinomycotic encephalitis",Dx
+A42,A4289,1,"Other forms of actinomycosis","Other forms of actinomycosis",Dx
+A42,A429,1,"Actinomycosis unspecified","Actinomycosis unspecified",Dx
+A43,A43,0,Nocardiosis,Nocardiosis,Dx
+A43,A430,1,"Pulmonary nocardiosis","Pulmonary nocardiosis",Dx
+A43,A431,1,"Cutaneous nocardiosis","Cutaneous nocardiosis",Dx
+A43,A438,1,"Other forms of nocardiosis","Other forms of nocardiosis",Dx
+A43,A439,1,"Nocardiosis unspecified","Nocardiosis unspecified",Dx
+A44,A44,0,Bartonellosis,Bartonellosis,Dx
+A44,A440,1,"Systemic bartonellosis","Systemic bartonellosis",Dx
+A44,A441,1,"Cutaneous and mucocutaneous bartonellosis","Cutaneous and mucocutaneous bartonellosis",Dx
+A44,A448,1,"Other forms of bartonellosis","Other forms of bartonellosis",Dx
+A44,A449,1,"Bartonellosis unspecified","Bartonellosis unspecified",Dx
+A46,A46,1,Erysipelas,Erysipelas,Dx
+A48,A48,0,"Other bacterial diseases not elsewhere classified","Other bacterial diseases not elsewhere classified",Dx
+A48,A480,1,"Gas gangrene","Gas gangrene",Dx
+A48,A481,1,"Legionnaires' disease","Legionnaires' disease",Dx
+A48,A482,1,"Nonpneumonic Legionnaires' disease [Pontiac fever]","Nonpneumonic Legionnaires' disease [Pontiac fever]",Dx
+A48,A483,1,"Toxic shock syndrome","Toxic shock syndrome",Dx
+A48,A484,1,"Brazilian purpuric fever","Brazilian purpuric fever",Dx
+A48,A485,0,"Other specified botulism","Other specified botulism",Dx
+A48,A4851,1,"Infant botulism","Infant botulism",Dx
+A48,A4852,1,"Wound botulism","Wound botulism",Dx
+A48,A488,1,"Other specified bacterial diseases","Other specified bacterial diseases",Dx
+A49,A49,0,"Bacterial infection of unspecified site","Bacterial infection of unspecified site",Dx
+A49,A490,0,"Staphylococcal infection unspecified site","Staphylococcal infection unspecified site",Dx
+A49,A4901,1,"Methicillin suscep staph infection unsp site","Methicillin susceptible Staphylococcus aureus infection unspecified site",Dx
+A49,A4902,1,"Methicillin resis staph infection unsp site","Methicillin resistant Staphylococcus aureus infection unspecified site",Dx
+A49,A491,1,"Streptococcal infection unspecified site","Streptococcal infection unspecified site",Dx
+A49,A492,1,"Hemophilus influenzae infection unspecified site","Hemophilus influenzae infection unspecified site",Dx
+A49,A493,1,"Mycoplasma infection unspecified site","Mycoplasma infection unspecified site",Dx
+A49,A498,1,"Other bacterial infections of unspecified site","Other bacterial infections of unspecified site",Dx
+A49,A499,1,"Bacterial infection unspecified","Bacterial infection unspecified",Dx
+A50,A50,0,"Congenital syphilis","Congenital syphilis",Dx
+A50,A500,0,"Early congenital syphilis symptomatic","Early congenital syphilis symptomatic",Dx
+A50,A5001,1,"Early congenital syphilitic oculopathy","Early congenital syphilitic oculopathy",Dx
+A50,A5002,1,"Early congenital syphilitic osteochondropathy","Early congenital syphilitic osteochondropathy",Dx
+A50,A5003,1,"Early congenital syphilitic pharyngitis","Early congenital syphilitic pharyngitis",Dx
+A50,A5004,1,"Early congenital syphilitic pneumonia","Early congenital syphilitic pneumonia",Dx
+A50,A5005,1,"Early congenital syphilitic rhinitis","Early congenital syphilitic rhinitis",Dx
+A50,A5006,1,"Early cutaneous congenital syphilis","Early cutaneous congenital syphilis",Dx
+A50,A5007,1,"Early mucocutaneous congenital syphilis","Early mucocutaneous congenital syphilis",Dx
+A50,A5008,1,"Early visceral congenital syphilis","Early visceral congenital syphilis",Dx
+A50,A5009,1,"Other early congenital syphilis symptomatic","Other early congenital syphilis symptomatic",Dx
+A50,A501,1,"Early congenital syphilis latent","Early congenital syphilis latent",Dx
+A50,A502,1,"Early congenital syphilis unspecified","Early congenital syphilis unspecified",Dx
+A50,A503,0,"Late congenital syphilitic oculopathy","Late congenital syphilitic oculopathy",Dx
+A50,A5030,1,"Late congenital syphilitic oculopathy unspecified","Late congenital syphilitic oculopathy unspecified",Dx
+A50,A5031,1,"Late congenital syphilitic interstitial keratitis","Late congenital syphilitic interstitial keratitis",Dx
+A50,A5032,1,"Late congenital syphilitic chorioretinitis","Late congenital syphilitic chorioretinitis",Dx
+A50,A5039,1,"Other late congenital syphilitic oculopathy","Other late congenital syphilitic oculopathy",Dx
+A50,A504,0,"Late congenital neurosyphilis [juvenile neurosyphilis]","Late congenital neurosyphilis [juvenile neurosyphilis]",Dx
+A50,A5040,1,"Late congenital neurosyphilis unspecified","Late congenital neurosyphilis unspecified",Dx
+A50,A5041,1,"Late congenital syphilitic meningitis","Late congenital syphilitic meningitis",Dx
+A50,A5042,1,"Late congenital syphilitic encephalitis","Late congenital syphilitic encephalitis",Dx
+A50,A5043,1,"Late congenital syphilitic polyneuropathy","Late congenital syphilitic polyneuropathy",Dx
+A50,A5044,1,"Late congenital syphilitic optic nerve atrophy","Late congenital syphilitic optic nerve atrophy",Dx
+A50,A5045,1,"Juvenile general paresis","Juvenile general paresis",Dx
+A50,A5049,1,"Other late congenital neurosyphilis","Other late congenital neurosyphilis",Dx
+A50,A505,0,"Other late congenital syphilis symptomatic","Other late congenital syphilis symptomatic",Dx
+A50,A5051,1,"Clutton's joints","Clutton's joints",Dx
+A50,A5052,1,"Hutchinson's teeth","Hutchinson's teeth",Dx
+A50,A5053,1,"Hutchinson's triad","Hutchinson's triad",Dx
+A50,A5054,1,"Late congenital cardiovascular syphilis","Late congenital cardiovascular syphilis",Dx
+A50,A5055,1,"Late congenital syphilitic arthropathy","Late congenital syphilitic arthropathy",Dx
+A50,A5056,1,"Late congenital syphilitic osteochondropathy","Late congenital syphilitic osteochondropathy",Dx
+A50,A5057,1,"Syphilitic saddle nose","Syphilitic saddle nose",Dx
+A50,A5059,1,"Other late congenital syphilis symptomatic","Other late congenital syphilis symptomatic",Dx
+A50,A506,1,"Late congenital syphilis latent","Late congenital syphilis latent",Dx
+A50,A507,1,"Late congenital syphilis unspecified","Late congenital syphilis unspecified",Dx
+A50,A509,1,"Congenital syphilis unspecified","Congenital syphilis unspecified",Dx
+A51,A51,0,"Early syphilis","Early syphilis",Dx
+A51,A510,1,"Primary genital syphilis","Primary genital syphilis",Dx
+A51,A511,1,"Primary anal syphilis","Primary anal syphilis",Dx
+A51,A512,1,"Primary syphilis of other sites","Primary syphilis of other sites",Dx
+A51,A513,0,"Secondary syphilis of skin and mucous membranes","Secondary syphilis of skin and mucous membranes",Dx
+A51,A5131,1,"Condyloma latum","Condyloma latum",Dx
+A51,A5132,1,"Syphilitic alopecia","Syphilitic alopecia",Dx
+A51,A5139,1,"Other secondary syphilis of skin","Other secondary syphilis of skin",Dx
+A51,A514,0,"Other secondary syphilis","Other secondary syphilis",Dx
+A51,A5141,1,"Secondary syphilitic meningitis","Secondary syphilitic meningitis",Dx
+A51,A5142,1,"Secondary syphilitic female pelvic disease","Secondary syphilitic female pelvic disease",Dx
+A51,A5143,1,"Secondary syphilitic oculopathy","Secondary syphilitic oculopathy",Dx
+A51,A5144,1,"Secondary syphilitic nephritis","Secondary syphilitic nephritis",Dx
+A51,A5145,1,"Secondary syphilitic hepatitis","Secondary syphilitic hepatitis",Dx
+A51,A5146,1,"Secondary syphilitic osteopathy","Secondary syphilitic osteopathy",Dx
+A51,A5149,1,"Other secondary syphilitic conditions","Other secondary syphilitic conditions",Dx
+A51,A515,1,"Early syphilis latent","Early syphilis latent",Dx
+A51,A519,1,"Early syphilis unspecified","Early syphilis unspecified",Dx
+A52,A52,0,"Late syphilis","Late syphilis",Dx
+A52,A520,0,"Cardiovascular and cerebrovascular syphilis","Cardiovascular and cerebrovascular syphilis",Dx
+A52,A5200,1,"Cardiovascular syphilis unspecified","Cardiovascular syphilis unspecified",Dx
+A52,A5201,1,"Syphilitic aneurysm of aorta","Syphilitic aneurysm of aorta",Dx
+A52,A5202,1,"Syphilitic aortitis","Syphilitic aortitis",Dx
+A52,A5203,1,"Syphilitic endocarditis","Syphilitic endocarditis",Dx
+A52,A5204,1,"Syphilitic cerebral arteritis","Syphilitic cerebral arteritis",Dx
+A52,A5205,1,"Other cerebrovascular syphilis","Other cerebrovascular syphilis",Dx
+A52,A5206,1,"Other syphilitic heart involvement","Other syphilitic heart involvement",Dx
+A52,A5209,1,"Other cardiovascular syphilis","Other cardiovascular syphilis",Dx
+A52,A521,0,"Symptomatic neurosyphilis","Symptomatic neurosyphilis",Dx
+A52,A5210,1,"Symptomatic neurosyphilis unspecified","Symptomatic neurosyphilis unspecified",Dx
+A52,A5211,1,"Tabes dorsalis","Tabes dorsalis",Dx
+A52,A5212,1,"Other cerebrospinal syphilis","Other cerebrospinal syphilis",Dx
+A52,A5213,1,"Late syphilitic meningitis","Late syphilitic meningitis",Dx
+A52,A5214,1,"Late syphilitic encephalitis","Late syphilitic encephalitis",Dx
+A52,A5215,1,"Late syphilitic neuropathy","Late syphilitic neuropathy",Dx
+A52,A5216,1,"Charcot's arthropathy (tabetic)","Charcot's arthropathy (tabetic)",Dx
+A52,A5217,1,"General paresis","General paresis",Dx
+A52,A5219,1,"Other symptomatic neurosyphilis","Other symptomatic neurosyphilis",Dx
+A52,A522,1,"Asymptomatic neurosyphilis","Asymptomatic neurosyphilis",Dx
+A52,A523,1,"Neurosyphilis unspecified","Neurosyphilis unspecified",Dx
+A52,A527,0,"Other symptomatic late syphilis","Other symptomatic late syphilis",Dx
+A52,A5271,1,"Late syphilitic oculopathy","Late syphilitic oculopathy",Dx
+A52,A5272,1,"Syphilis of lung and bronchus","Syphilis of lung and bronchus",Dx
+A52,A5273,1,"Symptomatic late syphilis of other respiratory organs","Symptomatic late syphilis of other respiratory organs",Dx
+A52,A5274,1,"Syphilis of liver and other viscera","Syphilis of liver and other viscera",Dx
+A52,A5275,1,"Syphilis of kidney and ureter","Syphilis of kidney and ureter",Dx
+A52,A5276,1,"Other genitourinary symptomatic late syphilis","Other genitourinary symptomatic late syphilis",Dx
+A52,A5277,1,"Syphilis of bone and joint","Syphilis of bone and joint",Dx
+A52,A5278,1,"Syphilis of other musculoskeletal tissue","Syphilis of other musculoskeletal tissue",Dx
+A52,A5279,1,"Other symptomatic late syphilis","Other symptomatic late syphilis",Dx
+A52,A528,1,"Late syphilis latent","Late syphilis latent",Dx
+A52,A529,1,"Late syphilis unspecified","Late syphilis unspecified",Dx
+A53,A53,0,"Other and unspecified syphilis","Other and unspecified syphilis",Dx
+A53,A530,1,"Latent syphilis unspecified as early or late","Latent syphilis unspecified as early or late",Dx
+A53,A539,1,"Syphilis unspecified","Syphilis unspecified",Dx
+A54,A54,0,"Gonococcal infection","Gonococcal infection",Dx
+A54,A540,0,"Gonocl infct of low GU tract w/o periureth or acc glnd abcs","Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess",Dx
+A54,A5400,1,"Gonococcal infection of lower genitourinary tract unsp","Gonococcal infection of lower genitourinary tract unspecified",Dx
+A54,A5401,1,"Gonococcal cystitis and urethritis unspecified","Gonococcal cystitis and urethritis unspecified",Dx
+A54,A5402,1,"Gonococcal vulvovaginitis unspecified","Gonococcal vulvovaginitis unspecified",Dx
+A54,A5403,1,"Gonococcal cervicitis unspecified","Gonococcal cervicitis unspecified",Dx
+A54,A5409,1,"Other gonococcal infection of lower genitourinary tract","Other gonococcal infection of lower genitourinary tract",Dx
+A54,A541,1,"Gonocl infct of lower GU tract w periureth and acc glnd abcs","Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess",Dx
+A54,A542,0,"Gonococcal pelviperitonitis and oth gonococcal GU infection","Gonococcal pelviperitonitis and other gonococcal genitourinary infection",Dx
+A54,A5421,1,"Gonococcal infection of kidney and ureter","Gonococcal infection of kidney and ureter",Dx
+A54,A5422,1,"Gonococcal prostatitis","Gonococcal prostatitis",Dx
+A54,A5423,1,"Gonococcal infection of other male genital organs","Gonococcal infection of other male genital organs",Dx
+A54,A5424,1,"Gonococcal female pelvic inflammatory disease","Gonococcal female pelvic inflammatory disease",Dx
+A54,A5429,1,"Other gonococcal genitourinary infections","Other gonococcal genitourinary infections",Dx
+A54,A543,0,"Gonococcal infection of eye","Gonococcal infection of eye",Dx
+A54,A5430,1,"Gonococcal infection of eye unspecified","Gonococcal infection of eye unspecified",Dx
+A54,A5431,1,"Gonococcal conjunctivitis","Gonococcal conjunctivitis",Dx
+A54,A5432,1,"Gonococcal iridocyclitis","Gonococcal iridocyclitis",Dx
+A54,A5433,1,"Gonococcal keratitis","Gonococcal keratitis",Dx
+A54,A5439,1,"Other gonococcal eye infection","Other gonococcal eye infection",Dx
+A54,A544,0,"Gonococcal infection of musculoskeletal system","Gonococcal infection of musculoskeletal system",Dx
+A54,A5440,1,"Gonococcal infection of musculoskeletal system unspecified","Gonococcal infection of musculoskeletal system unspecified",Dx
+A54,A5441,1,"Gonococcal spondylopathy","Gonococcal spondylopathy",Dx
+A54,A5442,1,"Gonococcal arthritis","Gonococcal arthritis",Dx
+A54,A5443,1,"Gonococcal osteomyelitis","Gonococcal osteomyelitis",Dx
+A54,A5449,1,"Gonococcal infection of other musculoskeletal tissue","Gonococcal infection of other musculoskeletal tissue",Dx
+A54,A545,1,"Gonococcal pharyngitis","Gonococcal pharyngitis",Dx
+A54,A546,1,"Gonococcal infection of anus and rectum","Gonococcal infection of anus and rectum",Dx
+A54,A548,0,"Other gonococcal infections","Other gonococcal infections",Dx
+A54,A5481,1,"Gonococcal meningitis","Gonococcal meningitis",Dx
+A54,A5482,1,"Gonococcal brain abscess","Gonococcal brain abscess",Dx
+A54,A5483,1,"Gonococcal heart infection","Gonococcal heart infection",Dx
+A54,A5484,1,"Gonococcal pneumonia","Gonococcal pneumonia",Dx
+A54,A5485,1,"Gonococcal peritonitis","Gonococcal peritonitis",Dx
+A54,A5486,1,"Gonococcal sepsis","Gonococcal sepsis",Dx
+A54,A5489,1,"Other gonococcal infections","Other gonococcal infections",Dx
+A54,A549,1,"Gonococcal infection unspecified","Gonococcal infection unspecified",Dx
+A55,A55,1,"Chlamydial lymphogranuloma (venereum)","Chlamydial lymphogranuloma (venereum)",Dx
+A56,A56,0,"Other sexually transmitted chlamydial diseases","Other sexually transmitted chlamydial diseases",Dx
+A56,A560,0,"Chlamydial infection of lower genitourinary tract","Chlamydial infection of lower genitourinary tract",Dx
+A56,A5600,1,"Chlamydial infection of lower genitourinary tract unsp","Chlamydial infection of lower genitourinary tract unspecified",Dx
+A56,A5601,1,"Chlamydial cystitis and urethritis","Chlamydial cystitis and urethritis",Dx
+A56,A5602,1,"Chlamydial vulvovaginitis","Chlamydial vulvovaginitis",Dx
+A56,A5609,1,"Other chlamydial infection of lower genitourinary tract","Other chlamydial infection of lower genitourinary tract",Dx
+A56,A561,0,"Chlamydial infection of pelviperitoneum and oth GU organs","Chlamydial infection of pelviperitoneum and other genitourinary organs",Dx
+A56,A5611,1,"Chlamydial female pelvic inflammatory disease","Chlamydial female pelvic inflammatory disease",Dx
+A56,A5619,1,"Other chlamydial genitourinary infection","Other chlamydial genitourinary infection",Dx
+A56,A562,1,"Chlamydial infection of genitourinary tract unspecified","Chlamydial infection of genitourinary tract unspecified",Dx
+A56,A563,1,"Chlamydial infection of anus and rectum","Chlamydial infection of anus and rectum",Dx
+A56,A564,1,"Chlamydial infection of pharynx","Chlamydial infection of pharynx",Dx
+A56,A568,1,"Sexually transmitted chlamydial infection of other sites","Sexually transmitted chlamydial infection of other sites",Dx
+A57,A57,1,Chancroid,Chancroid,Dx
+A58,A58,1,"Granuloma inguinale","Granuloma inguinale",Dx
+A59,A59,0,Trichomoniasis,Trichomoniasis,Dx
+A59,A590,0,"Urogenital trichomoniasis","Urogenital trichomoniasis",Dx
+A59,A5900,1,"Urogenital trichomoniasis unspecified","Urogenital trichomoniasis unspecified",Dx
+A59,A5901,1,"Trichomonal vulvovaginitis","Trichomonal vulvovaginitis",Dx
+A59,A5902,1,"Trichomonal prostatitis","Trichomonal prostatitis",Dx
+A59,A5903,1,"Trichomonal cystitis and urethritis","Trichomonal cystitis and urethritis",Dx
+A59,A5909,1,"Other urogenital trichomoniasis","Other urogenital trichomoniasis",Dx
+A59,A598,1,"Trichomoniasis of other sites","Trichomoniasis of other sites",Dx
+A59,A599,1,"Trichomoniasis unspecified","Trichomoniasis unspecified",Dx
+A60,A60,0,"Anogenital herpesviral [herpes simplex] infections","Anogenital herpesviral [herpes simplex] infections",Dx
+A60,A600,0,"Herpesviral infection of genitalia and urogenital tract","Herpesviral infection of genitalia and urogenital tract",Dx
+A60,A6000,1,"Herpesviral infection of urogenital system unspecified","Herpesviral infection of urogenital system unspecified",Dx
+A60,A6001,1,"Herpesviral infection of penis","Herpesviral infection of penis",Dx
+A60,A6002,1,"Herpesviral infection of other male genital organs","Herpesviral infection of other male genital organs",Dx
+A60,A6003,1,"Herpesviral cervicitis","Herpesviral cervicitis",Dx
+A60,A6004,1,"Herpesviral vulvovaginitis","Herpesviral vulvovaginitis",Dx
+A60,A6009,1,"Herpesviral infection of other urogenital tract","Herpesviral infection of other urogenital tract",Dx
+A60,A601,1,"Herpesviral infection of perianal skin and rectum","Herpesviral infection of perianal skin and rectum",Dx
+A60,A609,1,"Anogenital herpesviral infection unspecified","Anogenital herpesviral infection unspecified",Dx
+A63,A63,0,"Oth predominantly sexually transmitted diseases NEC","Other predominantly sexually transmitted diseases not elsewhere classified",Dx
+A63,A630,1,"Anogenital (venereal) warts","Anogenital (venereal) warts",Dx
+A63,A638,1,"Other specified predominantly sexually transmitted diseases","Other specified predominantly sexually transmitted diseases",Dx
+A64,A64,1,"Unspecified sexually transmitted disease","Unspecified sexually transmitted disease",Dx
+A65,A65,1,"Nonvenereal syphilis","Nonvenereal syphilis",Dx
+A66,A66,0,Yaws,Yaws,Dx
+A66,A660,1,"Initial lesions of yaws","Initial lesions of yaws",Dx
+A66,A661,1,"Multiple papillomata and wet crab yaws","Multiple papillomata and wet crab yaws",Dx
+A66,A662,1,"Other early skin lesions of yaws","Other early skin lesions of yaws",Dx
+A66,A663,1,"Hyperkeratosis of yaws","Hyperkeratosis of yaws",Dx
+A66,A664,1,"Gummata and ulcers of yaws","Gummata and ulcers of yaws",Dx
+A66,A665,1,Gangosa,Gangosa,Dx
+A66,A666,1,"Bone and joint lesions of yaws","Bone and joint lesions of yaws",Dx
+A66,A667,1,"Other manifestations of yaws","Other manifestations of yaws",Dx
+A66,A668,1,"Latent yaws","Latent yaws",Dx
+A66,A669,1,"Yaws unspecified","Yaws unspecified",Dx
+A67,A67,0,"Pinta [carate]","Pinta [carate]",Dx
+A67,A670,1,"Primary lesions of pinta","Primary lesions of pinta",Dx
+A67,A671,1,"Intermediate lesions of pinta","Intermediate lesions of pinta",Dx
+A67,A672,1,"Late lesions of pinta","Late lesions of pinta",Dx
+A67,A673,1,"Mixed lesions of pinta","Mixed lesions of pinta",Dx
+A67,A679,1,"Pinta unspecified","Pinta unspecified",Dx
+A68,A68,0,"Relapsing fevers","Relapsing fevers",Dx
+A68,A680,1,"Louse-borne relapsing fever","Louse-borne relapsing fever",Dx
+A68,A681,1,"Tick-borne relapsing fever","Tick-borne relapsing fever",Dx
+A68,A689,1,"Relapsing fever unspecified","Relapsing fever unspecified",Dx
+A69,A69,0,"Other spirochetal infections","Other spirochetal infections",Dx
+A69,A690,1,"Necrotizing ulcerative stomatitis","Necrotizing ulcerative stomatitis",Dx
+A69,A691,1,"Other Vincent's infections","Other Vincent's infections",Dx
+A69,A692,0,"Lyme disease","Lyme disease",Dx
+A69,A6920,1,"Lyme disease unspecified","Lyme disease unspecified",Dx
+A69,A6921,1,"Meningitis due to Lyme disease","Meningitis due to Lyme disease",Dx
+A69,A6922,1,"Other neurologic disorders in Lyme disease","Other neurologic disorders in Lyme disease",Dx
+A69,A6923,1,"Arthritis due to Lyme disease","Arthritis due to Lyme disease",Dx
+A69,A6929,1,"Other conditions associated with Lyme disease","Other conditions associated with Lyme disease",Dx
+A69,A698,1,"Other specified spirochetal infections","Other specified spirochetal infections",Dx
+A69,A699,1,"Spirochetal infection unspecified","Spirochetal infection unspecified",Dx
+A70,A70,1,"Chlamydia psittaci infections","Chlamydia psittaci infections",Dx
+A71,A71,0,Trachoma,Trachoma,Dx
+A71,A710,1,"Initial stage of trachoma","Initial stage of trachoma",Dx
+A71,A711,1,"Active stage of trachoma","Active stage of trachoma",Dx
+A71,A719,1,"Trachoma unspecified","Trachoma unspecified",Dx
+A74,A74,0,"Other diseases caused by chlamydiae","Other diseases caused by chlamydiae",Dx
+A74,A740,1,"Chlamydial conjunctivitis","Chlamydial conjunctivitis",Dx
+A74,A748,0,"Other chlamydial diseases","Other chlamydial diseases",Dx
+A74,A7481,1,"Chlamydial peritonitis","Chlamydial peritonitis",Dx
+A74,A7489,1,"Other chlamydial diseases","Other chlamydial diseases",Dx
+A74,A749,1,"Chlamydial infection unspecified","Chlamydial infection unspecified",Dx
+A75,A75,0,"Typhus fever","Typhus fever",Dx
+A75,A750,1,"Epidemic louse-borne typhus fever d/t Rickettsia prowazekii","Epidemic louse-borne typhus fever due to Rickettsia prowazekii",Dx
+A75,A751,1,"Recrudescent typhus [Brill's disease]","Recrudescent typhus [Brill's disease]",Dx
+A75,A752,1,"Typhus fever due to Rickettsia typhi","Typhus fever due to Rickettsia typhi",Dx
+A75,A753,1,"Typhus fever due to Rickettsia tsutsugamushi","Typhus fever due to Rickettsia tsutsugamushi",Dx
+A75,A759,1,"Typhus fever unspecified","Typhus fever unspecified",Dx
+A77,A77,0,"Spotted fever [tick-borne rickettsioses]","Spotted fever [tick-borne rickettsioses]",Dx
+A77,A770,1,"Spotted fever due to Rickettsia rickettsii","Spotted fever due to Rickettsia rickettsii",Dx
+A77,A771,1,"Spotted fever due to Rickettsia conorii","Spotted fever due to Rickettsia conorii",Dx
+A77,A772,1,"Spotted fever due to Rickettsia siberica","Spotted fever due to Rickettsia siberica",Dx
+A77,A773,1,"Spotted fever due to Rickettsia australis","Spotted fever due to Rickettsia australis",Dx
+A77,A774,0,Ehrlichiosis,Ehrlichiosis,Dx
+A77,A7740,1,"Ehrlichiosis unspecified","Ehrlichiosis unspecified",Dx
+A77,A7741,1,"Ehrlichiosis chafeensis [E. chafeensis]","Ehrlichiosis chafeensis [E. chafeensis]",Dx
+A77,A7749,1,"Other ehrlichiosis","Other ehrlichiosis",Dx
+A77,A778,1,"Other spotted fevers","Other spotted fevers",Dx
+A77,A779,1,"Spotted fever unspecified","Spotted fever unspecified",Dx
+A78,A78,1,"Q fever","Q fever",Dx
+A79,A79,0,"Other rickettsioses","Other rickettsioses",Dx
+A79,A790,1,"Trench fever","Trench fever",Dx
+A79,A791,1,"Rickettsialpox due to Rickettsia akari","Rickettsialpox due to Rickettsia akari",Dx
+A79,A798,0,"Other specified rickettsioses","Other specified rickettsioses",Dx
+A79,A7981,1,"Rickettsiosis due to Ehrlichia sennetsu","Rickettsiosis due to Ehrlichia sennetsu",Dx
+A79,A7989,1,"Other specified rickettsioses","Other specified rickettsioses",Dx
+A79,A799,1,"Rickettsiosis unspecified","Rickettsiosis unspecified",Dx
+A80,A80,0,"Acute poliomyelitis","Acute poliomyelitis",Dx
+A80,A800,1,"Acute paralytic poliomyelitis vaccine-associated","Acute paralytic poliomyelitis vaccine-associated",Dx
+A80,A801,1,"Acute paralytic poliomyelitis wild virus imported","Acute paralytic poliomyelitis wild virus imported",Dx
+A80,A802,1,"Acute paralytic poliomyelitis wild virus indigenous","Acute paralytic poliomyelitis wild virus indigenous",Dx
+A80,A803,0,"Acute paralytic poliomyelitis other and unspecified","Acute paralytic poliomyelitis other and unspecified",Dx
+A80,A8030,1,"Acute paralytic poliomyelitis unspecified","Acute paralytic poliomyelitis unspecified",Dx
+A80,A8039,1,"Other acute paralytic poliomyelitis","Other acute paralytic poliomyelitis",Dx
+A80,A804,1,"Acute nonparalytic poliomyelitis","Acute nonparalytic poliomyelitis",Dx
+A80,A809,1,"Acute poliomyelitis unspecified","Acute poliomyelitis unspecified",Dx
+A81,A81,0,"Atypical virus infections of central nervous system","Atypical virus infections of central nervous system",Dx
+A81,A810,0,"Creutzfeldt-Jakob disease","Creutzfeldt-Jakob disease",Dx
+A81,A8100,1,"Creutzfeldt-Jakob disease unspecified","Creutzfeldt-Jakob disease unspecified",Dx
+A81,A8101,1,"Variant Creutzfeldt-Jakob disease","Variant Creutzfeldt-Jakob disease",Dx
+A81,A8109,1,"Other Creutzfeldt-Jakob disease","Other Creutzfeldt-Jakob disease",Dx
+A81,A811,1,"Subacute sclerosing panencephalitis","Subacute sclerosing panencephalitis",Dx
+A81,A812,1,"Progressive multifocal leukoencephalopathy","Progressive multifocal leukoencephalopathy",Dx
+A81,A818,0,"Other atypical virus infections of central nervous system","Other atypical virus infections of central nervous system",Dx
+A81,A8181,1,Kuru,Kuru,Dx
+A81,A8182,1,"Gerstmann-Straussler-Scheinker syndrome","Gerstmann-Straussler-Scheinker syndrome",Dx
+A81,A8183,1,"Fatal familial insomnia","Fatal familial insomnia",Dx
+A81,A8189,1,"Other atypical virus infections of central nervous system","Other atypical virus infections of central nervous system",Dx
+A81,A819,1,"Atypical virus infection of central nervous system unsp","Atypical virus infection of central nervous system unspecified",Dx
+A82,A82,0,Rabies,Rabies,Dx
+A82,A820,1,"Sylvatic rabies","Sylvatic rabies",Dx
+A82,A821,1,"Urban rabies","Urban rabies",Dx
+A82,A829,1,"Rabies unspecified","Rabies unspecified",Dx
+A83,A83,0,"Mosquito-borne viral encephalitis","Mosquito-borne viral encephalitis",Dx
+A83,A830,1,"Japanese encephalitis","Japanese encephalitis",Dx
+A83,A831,1,"Western equine encephalitis","Western equine encephalitis",Dx
+A83,A832,1,"Eastern equine encephalitis","Eastern equine encephalitis",Dx
+A83,A833,1,"St Louis encephalitis","St Louis encephalitis",Dx
+A83,A834,1,"Australian encephalitis","Australian encephalitis",Dx
+A83,A835,1,"California encephalitis","California encephalitis",Dx
+A83,A836,1,"Rocio virus disease","Rocio virus disease",Dx
+A83,A838,1,"Other mosquito-borne viral encephalitis","Other mosquito-borne viral encephalitis",Dx
+A83,A839,1,"Mosquito-borne viral encephalitis unspecified","Mosquito-borne viral encephalitis unspecified",Dx
+A84,A84,0,"Tick-borne viral encephalitis","Tick-borne viral encephalitis",Dx
+A84,A840,1,"Far Eastern tick-borne encephalitis","Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis]",Dx
+A84,A841,1,"Central European tick-borne encephalitis","Central European tick-borne encephalitis",Dx
+A84,A848,1,"Other tick-borne viral encephalitis","Other tick-borne viral encephalitis",Dx
+A84,A849,1,"Tick-borne viral encephalitis unspecified","Tick-borne viral encephalitis unspecified",Dx
+A85,A85,0,"Other viral encephalitis not elsewhere classified","Other viral encephalitis not elsewhere classified",Dx
+A85,A850,1,"Enteroviral encephalitis","Enteroviral encephalitis",Dx
+A85,A851,1,"Adenoviral encephalitis","Adenoviral encephalitis",Dx
+A85,A852,1,"Arthropod-borne viral encephalitis unspecified","Arthropod-borne viral encephalitis unspecified",Dx
+A85,A858,1,"Other specified viral encephalitis","Other specified viral encephalitis",Dx
+A86,A86,1,"Unspecified viral encephalitis","Unspecified viral encephalitis",Dx
+A87,A87,0,"Viral meningitis","Viral meningitis",Dx
+A87,A870,1,"Enteroviral meningitis","Enteroviral meningitis",Dx
+A87,A871,1,"Adenoviral meningitis","Adenoviral meningitis",Dx
+A87,A872,1,"Lymphocytic choriomeningitis","Lymphocytic choriomeningitis",Dx
+A87,A878,1,"Other viral meningitis","Other viral meningitis",Dx
+A87,A879,1,"Viral meningitis unspecified","Viral meningitis unspecified",Dx
+A88,A88,0,"Oth viral infections of central nervous system NEC","Other viral infections of central nervous system not elsewhere classified",Dx
+A88,A880,1,"Enteroviral exanthematous fever [Boston exanthem]","Enteroviral exanthematous fever [Boston exanthem]",Dx
+A88,A881,1,"Epidemic vertigo","Epidemic vertigo",Dx
+A88,A888,1,"Other specified viral infections of central nervous system","Other specified viral infections of central nervous system",Dx
+A89,A89,1,"Unspecified viral infection of central nervous system","Unspecified viral infection of central nervous system",Dx
+A90,A90,1,"Dengue fever [classical dengue]","Dengue fever [classical dengue]",Dx
+A91,A91,1,"Dengue hemorrhagic fever","Dengue hemorrhagic fever",Dx
+A92,A92,0,"Other mosquito-borne viral fevers","Other mosquito-borne viral fevers",Dx
+A92,A920,1,"Chikungunya virus disease","Chikungunya virus disease",Dx
+A92,A921,1,"O'nyong-nyong fever","O'nyong-nyong fever",Dx
+A92,A922,1,"Venezuelan equine fever","Venezuelan equine fever",Dx
+A92,A923,0,"West Nile virus infection","West Nile virus infection",Dx
+A92,A9230,1,"West Nile virus infection unspecified","West Nile virus infection unspecified",Dx
+A92,A9231,1,"West Nile virus infection with encephalitis","West Nile virus infection with encephalitis",Dx
+A92,A9232,1,"West Nile virus infection with oth neurologic manifestation","West Nile virus infection with other neurologic manifestation",Dx
+A92,A9239,1,"West Nile virus infection with other complications","West Nile virus infection with other complications",Dx
+A92,A924,1,"Rift Valley fever","Rift Valley fever",Dx
+A92,A928,1,"Other specified mosquito-borne viral fevers","Other specified mosquito-borne viral fevers",Dx
+A92,A929,1,"Mosquito-borne viral fever unspecified","Mosquito-borne viral fever unspecified",Dx
+A93,A93,0,"Other arthropod-borne viral fevers not elsewhere classified","Other arthropod-borne viral fevers not elsewhere classified",Dx
+A93,A930,1,"Oropouche virus disease","Oropouche virus disease",Dx
+A93,A931,1,"Sandfly fever","Sandfly fever",Dx
+A93,A932,1,"Colorado tick fever","Colorado tick fever",Dx
+A93,A938,1,"Other specified arthropod-borne viral fevers","Other specified arthropod-borne viral fevers",Dx
+A94,A94,1,"Unspecified arthropod-borne viral fever","Unspecified arthropod-borne viral fever",Dx
+A95,A95,0,"Yellow fever","Yellow fever",Dx
+A95,A950,1,"Sylvatic yellow fever","Sylvatic yellow fever",Dx
+A95,A951,1,"Urban yellow fever","Urban yellow fever",Dx
+A95,A959,1,"Yellow fever unspecified","Yellow fever unspecified",Dx
+A96,A96,0,"Arenaviral hemorrhagic fever","Arenaviral hemorrhagic fever",Dx
+A96,A960,1,"Junin hemorrhagic fever","Junin hemorrhagic fever",Dx
+A96,A961,1,"Machupo hemorrhagic fever","Machupo hemorrhagic fever",Dx
+A96,A962,1,"Lassa fever","Lassa fever",Dx
+A96,A968,1,"Other arenaviral hemorrhagic fevers","Other arenaviral hemorrhagic fevers",Dx
+A96,A969,1,"Arenaviral hemorrhagic fever unspecified","Arenaviral hemorrhagic fever unspecified",Dx
+A98,A98,0,"Other viral hemorrhagic fevers not elsewhere classified","Other viral hemorrhagic fevers not elsewhere classified",Dx
+A98,A980,1,"Crimean-Congo hemorrhagic fever","Crimean-Congo hemorrhagic fever",Dx
+A98,A981,1,"Omsk hemorrhagic fever","Omsk hemorrhagic fever",Dx
+A98,A982,1,"Kyasanur Forest disease","Kyasanur Forest disease",Dx
+A98,A983,1,"Marburg virus disease","Marburg virus disease",Dx
+A98,A984,1,"Ebola virus disease","Ebola virus disease",Dx
+A98,A985,1,"Hemorrhagic fever with renal syndrome","Hemorrhagic fever with renal syndrome",Dx
+A98,A988,1,"Other specified viral hemorrhagic fevers","Other specified viral hemorrhagic fevers",Dx
+A99,A99,1,"Unspecified viral hemorrhagic fever","Unspecified viral hemorrhagic fever",Dx
+B00,B00,0,"Herpesviral [herpes simplex] infections","Herpesviral [herpes simplex] infections",Dx
+B00,B000,1,"Eczema herpeticum","Eczema herpeticum",Dx
+B00,B001,1,"Herpesviral vesicular dermatitis","Herpesviral vesicular dermatitis",Dx
+B00,B002,1,"Herpesviral gingivostomatitis and pharyngotonsillitis","Herpesviral gingivostomatitis and pharyngotonsillitis",Dx
+B00,B003,1,"Herpesviral meningitis","Herpesviral meningitis",Dx
+B00,B004,1,"Herpesviral encephalitis","Herpesviral encephalitis",Dx
+B00,B005,0,"Herpesviral ocular disease","Herpesviral ocular disease",Dx
+B00,B0050,1,"Herpesviral ocular disease unspecified","Herpesviral ocular disease unspecified",Dx
+B00,B0051,1,"Herpesviral iridocyclitis","Herpesviral iridocyclitis",Dx
+B00,B0052,1,"Herpesviral keratitis","Herpesviral keratitis",Dx
+B00,B0053,1,"Herpesviral conjunctivitis","Herpesviral conjunctivitis",Dx
+B00,B0059,1,"Other herpesviral disease of eye","Other herpesviral disease of eye",Dx
+B00,B007,1,"Disseminated herpesviral disease","Disseminated herpesviral disease",Dx
+B00,B008,0,"Other forms of herpesviral infections","Other forms of herpesviral infections",Dx
+B00,B0081,1,"Herpesviral hepatitis","Herpesviral hepatitis",Dx
+B00,B0082,1,"Herpes simplex myelitis","Herpes simplex myelitis",Dx
+B00,B0089,1,"Other herpesviral infection","Other herpesviral infection",Dx
+B00,B009,1,"Herpesviral infection unspecified","Herpesviral infection unspecified",Dx
+B01,B01,0,"Varicella [chickenpox]","Varicella [chickenpox]",Dx
+B01,B010,1,"Varicella meningitis","Varicella meningitis",Dx
+B01,B011,0,"Varicella encephalitis myelitis and encephalomyelitis","Varicella encephalitis myelitis and encephalomyelitis",Dx
+B01,B0111,1,"Varicella encephalitis and encephalomyelitis","Varicella encephalitis and encephalomyelitis",Dx
+B01,B0112,1,"Varicella myelitis","Varicella myelitis",Dx
+B01,B012,1,"Varicella pneumonia","Varicella pneumonia",Dx
+B01,B018,0,"Varicella with other complications","Varicella with other complications",Dx
+B01,B0181,1,"Varicella keratitis","Varicella keratitis",Dx
+B01,B0189,1,"Other varicella complications","Other varicella complications",Dx
+B01,B019,1,"Varicella without complication","Varicella without complication",Dx
+B02,B02,0,"Zoster [herpes zoster]","Zoster [herpes zoster]",Dx
+B02,B020,1,"Zoster encephalitis","Zoster encephalitis",Dx
+B02,B021,1,"Zoster meningitis","Zoster meningitis",Dx
+B02,B022,0,"Zoster with other nervous system involvement","Zoster with other nervous system involvement",Dx
+B02,B0221,1,"Postherpetic geniculate ganglionitis","Postherpetic geniculate ganglionitis",Dx
+B02,B0222,1,"Postherpetic trigeminal neuralgia","Postherpetic trigeminal neuralgia",Dx
+B02,B0223,1,"Postherpetic polyneuropathy","Postherpetic polyneuropathy",Dx
+B02,B0224,1,"Postherpetic myelitis","Postherpetic myelitis",Dx
+B02,B0229,1,"Other postherpetic nervous system involvement","Other postherpetic nervous system involvement",Dx
+B02,B023,0,"Zoster ocular disease","Zoster ocular disease",Dx
+B02,B0230,1,"Zoster ocular disease unspecified","Zoster ocular disease unspecified",Dx
+B02,B0231,1,"Zoster conjunctivitis","Zoster conjunctivitis",Dx
+B02,B0232,1,"Zoster iridocyclitis","Zoster iridocyclitis",Dx
+B02,B0233,1,"Zoster keratitis","Zoster keratitis",Dx
+B02,B0234,1,"Zoster scleritis","Zoster scleritis",Dx
+B02,B0239,1,"Other herpes zoster eye disease","Other herpes zoster eye disease",Dx
+B02,B027,1,"Disseminated zoster","Disseminated zoster",Dx
+B02,B028,1,"Zoster with other complications","Zoster with other complications",Dx
+B02,B029,1,"Zoster without complications","Zoster without complications",Dx
+B03,B03,1,Smallpox,Smallpox,Dx
+B04,B04,1,Monkeypox,Monkeypox,Dx
+B05,B05,0,Measles,Measles,Dx
+B05,B050,1,"Measles complicated by encephalitis","Measles complicated by encephalitis",Dx
+B05,B051,1,"Measles complicated by meningitis","Measles complicated by meningitis",Dx
+B05,B052,1,"Measles complicated by pneumonia","Measles complicated by pneumonia",Dx
+B05,B053,1,"Measles complicated by otitis media","Measles complicated by otitis media",Dx
+B05,B054,1,"Measles with intestinal complications","Measles with intestinal complications",Dx
+B05,B058,0,"Measles with other complications","Measles with other complications",Dx
+B05,B0581,1,"Measles keratitis and keratoconjunctivitis","Measles keratitis and keratoconjunctivitis",Dx
+B05,B0589,1,"Other measles complications","Other measles complications",Dx
+B05,B059,1,"Measles without complication","Measles without complication",Dx
+B06,B06,0,"Rubella [German measles]","Rubella [German measles]",Dx
+B06,B060,0,"Rubella with neurological complications","Rubella with neurological complications",Dx
+B06,B0600,1,"Rubella with neurological complication unspecified","Rubella with neurological complication unspecified",Dx
+B06,B0601,1,"Rubella encephalitis","Rubella encephalitis",Dx
+B06,B0602,1,"Rubella meningitis","Rubella meningitis",Dx
+B06,B0609,1,"Other neurological complications of rubella","Other neurological complications of rubella",Dx
+B06,B068,0,"Rubella with other complications","Rubella with other complications",Dx
+B06,B0681,1,"Rubella pneumonia","Rubella pneumonia",Dx
+B06,B0682,1,"Rubella arthritis","Rubella arthritis",Dx
+B06,B0689,1,"Other rubella complications","Other rubella complications",Dx
+B06,B069,1,"Rubella without complication","Rubella without complication",Dx
+B07,B07,0,"Viral warts","Viral warts",Dx
+B07,B070,1,"Plantar wart","Plantar wart",Dx
+B07,B078,1,"Other viral warts","Other viral warts",Dx
+B07,B079,1,"Viral wart unspecified","Viral wart unspecified",Dx
+B08,B08,0,"Oth viral infect with skin and mucous membrane lesions NEC","Other viral infections characterized by skin and mucous membrane lesions not elsewhere classified",Dx
+B08,B080,0,"Other orthopoxvirus infections","Other orthopoxvirus infections",Dx
+B08,B0801,0,"Cowpox and vaccinia not from vaccine","Cowpox and vaccinia not from vaccine",Dx
+B08,B08010,1,Cowpox,Cowpox,Dx
+B08,B08011,1,"Vaccinia not from vaccine","Vaccinia not from vaccine",Dx
+B08,B0802,1,"Orf virus disease","Orf virus disease",Dx
+B08,B0803,1,"Pseudocowpox [milker's node]","Pseudocowpox [milker's node]",Dx
+B08,B0804,1,"Paravaccinia unspecified","Paravaccinia unspecified",Dx
+B08,B0809,1,"Other orthopoxvirus infections","Other orthopoxvirus infections",Dx
+B08,B081,1,"Molluscum contagiosum","Molluscum contagiosum",Dx
+B08,B082,0,"Exanthema subitum [sixth disease]","Exanthema subitum [sixth disease]",Dx
+B08,B0820,1,"Exanthema subitum [sixth disease] unspecified","Exanthema subitum [sixth disease] unspecified",Dx
+B08,B0821,1,"Exanthema subitum [sixth disease] due to human herpesvirus 6","Exanthema subitum [sixth disease] due to human herpesvirus 6",Dx
+B08,B0822,1,"Exanthema subitum [sixth disease] due to human herpesvirus 7","Exanthema subitum [sixth disease] due to human herpesvirus 7",Dx
+B08,B083,1,"Erythema infectiosum [fifth disease]","Erythema infectiosum [fifth disease]",Dx
+B08,B084,1,"Enteroviral vesicular stomatitis with exanthem","Enteroviral vesicular stomatitis with exanthem",Dx
+B08,B085,1,"Enteroviral vesicular pharyngitis","Enteroviral vesicular pharyngitis",Dx
+B08,B086,0,"Parapoxvirus infections","Parapoxvirus infections",Dx
+B08,B0860,1,"Parapoxvirus infection unspecified","Parapoxvirus infection unspecified",Dx
+B08,B0861,1,"Bovine stomatitis","Bovine stomatitis",Dx
+B08,B0862,1,Sealpox,Sealpox,Dx
+B08,B0869,1,"Other parapoxvirus infections","Other parapoxvirus infections",Dx
+B08,B087,0,"Yatapoxvirus infections","Yatapoxvirus infections",Dx
+B08,B0870,1,"Yatapoxvirus infection unspecified","Yatapoxvirus infection unspecified",Dx
+B08,B0871,1,"Tanapox virus disease","Tanapox virus disease",Dx
+B08,B0872,1,"Yaba pox virus disease","Yaba pox virus disease",Dx
+B08,B0879,1,"Other yatapoxvirus infections","Other yatapoxvirus infections",Dx
+B08,B088,1,"Oth viral infections with skin and mucous membrane lesions","Other specified viral infections characterized by skin and mucous membrane lesions",Dx
+B09,B09,1,"Unsp viral infection with skin and mucous membrane lesions","Unspecified viral infection characterized by skin and mucous membrane lesions",Dx
+B10,B10,0,"Other human herpesviruses","Other human herpesviruses",Dx
+B10,B100,0,"Other human herpesvirus encephalitis","Other human herpesvirus encephalitis",Dx
+B10,B1001,1,"Human herpesvirus 6 encephalitis","Human herpesvirus 6 encephalitis",Dx
+B10,B1009,1,"Other human herpesvirus encephalitis","Other human herpesvirus encephalitis",Dx
+B10,B108,0,"Other human herpesvirus infection","Other human herpesvirus infection",Dx
+B10,B1081,1,"Human herpesvirus 6 infection","Human herpesvirus 6 infection",Dx
+B10,B1082,1,"Human herpesvirus 7 infection","Human herpesvirus 7 infection",Dx
+B10,B1089,1,"Other human herpesvirus infection","Other human herpesvirus infection",Dx
+B15,B15,0,"Acute hepatitis A","Acute hepatitis A",Dx
+B15,B150,1,"Hepatitis A with hepatic coma","Hepatitis A with hepatic coma",Dx
+B15,B159,1,"Hepatitis A without hepatic coma","Hepatitis A without hepatic coma",Dx
+B16,B16,0,"Acute hepatitis B","Acute hepatitis B",Dx
+B16,B160,1,"Acute hepatitis B with delta-agent with hepatic coma","Acute hepatitis B with delta-agent with hepatic coma",Dx
+B16,B161,1,"Acute hepatitis B with delta-agent without hepatic coma","Acute hepatitis B with delta-agent without hepatic coma",Dx
+B16,B162,1,"Acute hepatitis B without delta-agent with hepatic coma","Acute hepatitis B without delta-agent with hepatic coma",Dx
+B16,B169,1,"Acute hepatitis B w/o delta-agent and without hepatic coma","Acute hepatitis B without delta-agent and without hepatic coma",Dx
+B17,B17,0,"Other acute viral hepatitis","Other acute viral hepatitis",Dx
+B17,B170,1,"Acute delta-(super) infection of hepatitis B carrier","Acute delta-(super) infection of hepatitis B carrier",Dx
+B17,B171,0,"Acute hepatitis C","Acute hepatitis C",Dx
+B17,B1710,1,"Acute hepatitis C without hepatic coma","Acute hepatitis C without hepatic coma",Dx
+B17,B1711,1,"Acute hepatitis C with hepatic coma","Acute hepatitis C with hepatic coma",Dx
+B17,B172,1,"Acute hepatitis E","Acute hepatitis E",Dx
+B17,B178,1,"Other specified acute viral hepatitis","Other specified acute viral hepatitis",Dx
+B17,B179,1,"Acute viral hepatitis unspecified","Acute viral hepatitis unspecified",Dx
+B18,B18,0,"Chronic viral hepatitis","Chronic viral hepatitis",Dx
+B18,B180,1,"Chronic viral hepatitis B with delta-agent","Chronic viral hepatitis B with delta-agent",Dx
+B18,B181,1,"Chronic viral hepatitis B without delta-agent","Chronic viral hepatitis B without delta-agent",Dx
+B18,B182,1,"Chronic viral hepatitis C","Chronic viral hepatitis C",Dx
+B18,B188,1,"Other chronic viral hepatitis","Other chronic viral hepatitis",Dx
+B18,B189,1,"Chronic viral hepatitis unspecified","Chronic viral hepatitis unspecified",Dx
+B19,B19,0,"Unspecified viral hepatitis","Unspecified viral hepatitis",Dx
+B19,B190,1,"Unspecified viral hepatitis with hepatic coma","Unspecified viral hepatitis with hepatic coma",Dx
+B19,B191,0,"Unspecified viral hepatitis B","Unspecified viral hepatitis B",Dx
+B19,B1910,1,"Unspecified viral hepatitis B without hepatic coma","Unspecified viral hepatitis B without hepatic coma",Dx
+B19,B1911,1,"Unspecified viral hepatitis B with hepatic coma","Unspecified viral hepatitis B with hepatic coma",Dx
+B19,B192,0,"Unspecified viral hepatitis C","Unspecified viral hepatitis C",Dx
+B19,B1920,1,"Unspecified viral hepatitis C without hepatic coma","Unspecified viral hepatitis C without hepatic coma",Dx
+B19,B1921,1,"Unspecified viral hepatitis C with hepatic coma","Unspecified viral hepatitis C with hepatic coma",Dx
+B19,B199,1,"Unspecified viral hepatitis without hepatic coma","Unspecified viral hepatitis without hepatic coma",Dx
+B20,B20,1,"Human immunodeficiency virus [HIV] disease","Human immunodeficiency virus [HIV] disease",Dx
+B25,B25,0,"Cytomegaloviral disease","Cytomegaloviral disease",Dx
+B25,B250,1,"Cytomegaloviral pneumonitis","Cytomegaloviral pneumonitis",Dx
+B25,B251,1,"Cytomegaloviral hepatitis","Cytomegaloviral hepatitis",Dx
+B25,B252,1,"Cytomegaloviral pancreatitis","Cytomegaloviral pancreatitis",Dx
+B25,B258,1,"Other cytomegaloviral diseases","Other cytomegaloviral diseases",Dx
+B25,B259,1,"Cytomegaloviral disease unspecified","Cytomegaloviral disease unspecified",Dx
+B26,B26,0,Mumps,Mumps,Dx
+B26,B260,1,"Mumps orchitis","Mumps orchitis",Dx
+B26,B261,1,"Mumps meningitis","Mumps meningitis",Dx
+B26,B262,1,"Mumps encephalitis","Mumps encephalitis",Dx
+B26,B263,1,"Mumps pancreatitis","Mumps pancreatitis",Dx
+B26,B268,0,"Mumps with other complications","Mumps with other complications",Dx
+B26,B2681,1,"Mumps hepatitis","Mumps hepatitis",Dx
+B26,B2682,1,"Mumps myocarditis","Mumps myocarditis",Dx
+B26,B2683,1,"Mumps nephritis","Mumps nephritis",Dx
+B26,B2684,1,"Mumps polyneuropathy","Mumps polyneuropathy",Dx
+B26,B2685,1,"Mumps arthritis","Mumps arthritis",Dx
+B26,B2689,1,"Other mumps complications","Other mumps complications",Dx
+B26,B269,1,"Mumps without complication","Mumps without complication",Dx
+B27,B27,0,"Infectious mononucleosis","Infectious mononucleosis",Dx
+B27,B270,0,"Gammaherpesviral mononucleosis","Gammaherpesviral mononucleosis",Dx
+B27,B2700,1,"Gammaherpesviral mononucleosis without complication","Gammaherpesviral mononucleosis without complication",Dx
+B27,B2701,1,"Gammaherpesviral mononucleosis with polyneuropathy","Gammaherpesviral mononucleosis with polyneuropathy",Dx
+B27,B2702,1,"Gammaherpesviral mononucleosis with meningitis","Gammaherpesviral mononucleosis with meningitis",Dx
+B27,B2709,1,"Gammaherpesviral mononucleosis with other complications","Gammaherpesviral mononucleosis with other complications",Dx
+B27,B271,0,"Cytomegaloviral mononucleosis","Cytomegaloviral mononucleosis",Dx
+B27,B2710,1,"Cytomegaloviral mononucleosis without complications","Cytomegaloviral mononucleosis without complications",Dx
+B27,B2711,1,"Cytomegaloviral mononucleosis with polyneuropathy","Cytomegaloviral mononucleosis with polyneuropathy",Dx
+B27,B2712,1,"Cytomegaloviral mononucleosis with meningitis","Cytomegaloviral mononucleosis with meningitis",Dx
+B27,B2719,1,"Cytomegaloviral mononucleosis with other complication","Cytomegaloviral mononucleosis with other complication",Dx
+B27,B278,0,"Other infectious mononucleosis","Other infectious mononucleosis",Dx
+B27,B2780,1,"Other infectious mononucleosis without complication","Other infectious mononucleosis without complication",Dx
+B27,B2781,1,"Other infectious mononucleosis with polyneuropathy","Other infectious mononucleosis with polyneuropathy",Dx
+B27,B2782,1,"Other infectious mononucleosis with meningitis","Other infectious mononucleosis with meningitis",Dx
+B27,B2789,1,"Other infectious mononucleosis with other complication","Other infectious mononucleosis with other complication",Dx
+B27,B279,0,"Infectious mononucleosis unspecified","Infectious mononucleosis unspecified",Dx
+B27,B2790,1,"Infectious mononucleosis unspecified without complication","Infectious mononucleosis unspecified without complication",Dx
+B27,B2791,1,"Infectious mononucleosis unspecified with polyneuropathy","Infectious mononucleosis unspecified with polyneuropathy",Dx
+B27,B2792,1,"Infectious mononucleosis unspecified with meningitis","Infectious mononucleosis unspecified with meningitis",Dx
+B27,B2799,1,"Infectious mononucleosis unsp with other complication","Infectious mononucleosis unspecified with other complication",Dx
+B30,B30,0,"Viral conjunctivitis","Viral conjunctivitis",Dx
+B30,B300,1,"Keratoconjunctivitis due to adenovirus","Keratoconjunctivitis due to adenovirus",Dx
+B30,B301,1,"Conjunctivitis due to adenovirus","Conjunctivitis due to adenovirus",Dx
+B30,B302,1,"Viral pharyngoconjunctivitis","Viral pharyngoconjunctivitis",Dx
+B30,B303,1,"Acute epidemic hemorrhagic conjunctivitis (enteroviral)","Acute epidemic hemorrhagic conjunctivitis (enteroviral)",Dx
+B30,B308,1,"Other viral conjunctivitis","Other viral conjunctivitis",Dx
+B30,B309,1,"Viral conjunctivitis unspecified","Viral conjunctivitis unspecified",Dx
+B33,B33,0,"Other viral diseases not elsewhere classified","Other viral diseases not elsewhere classified",Dx
+B33,B330,1,"Epidemic myalgia","Epidemic myalgia",Dx
+B33,B331,1,"Ross River disease","Ross River disease",Dx
+B33,B332,0,"Viral carditis","Viral carditis",Dx
+B33,B3320,1,"Viral carditis unspecified","Viral carditis unspecified",Dx
+B33,B3321,1,"Viral endocarditis","Viral endocarditis",Dx
+B33,B3322,1,"Viral myocarditis","Viral myocarditis",Dx
+B33,B3323,1,"Viral pericarditis","Viral pericarditis",Dx
+B33,B3324,1,"Viral cardiomyopathy","Viral cardiomyopathy",Dx
+B33,B333,1,"Retrovirus infections not elsewhere classified","Retrovirus infections not elsewhere classified",Dx
+B33,B334,1,"Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]","Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS]",Dx
+B33,B338,1,"Other specified viral diseases","Other specified viral diseases",Dx
+B34,B34,0,"Viral infection of unspecified site","Viral infection of unspecified site",Dx
+B34,B340,1,"Adenovirus infection unspecified","Adenovirus infection unspecified",Dx
+B34,B341,1,"Enterovirus infection unspecified","Enterovirus infection unspecified",Dx
+B34,B342,1,"Coronavirus infection unspecified","Coronavirus infection unspecified",Dx
+B34,B343,1,"Parvovirus infection unspecified","Parvovirus infection unspecified",Dx
+B34,B344,1,"Papovavirus infection unspecified","Papovavirus infection unspecified",Dx
+B34,B348,1,"Other viral infections of unspecified site","Other viral infections of unspecified site",Dx
+B34,B349,1,"Viral infection unspecified","Viral infection unspecified",Dx
+B35,B35,0,Dermatophytosis,Dermatophytosis,Dx
+B35,B350,1,"Tinea barbae and tinea capitis","Tinea barbae and tinea capitis",Dx
+B35,B351,1,"Tinea unguium","Tinea unguium",Dx
+B35,B352,1,"Tinea manuum","Tinea manuum",Dx
+B35,B353,1,"Tinea pedis","Tinea pedis",Dx
+B35,B354,1,"Tinea corporis","Tinea corporis",Dx
+B35,B355,1,"Tinea imbricata","Tinea imbricata",Dx
+B35,B356,1,"Tinea cruris","Tinea cruris",Dx
+B35,B358,1,"Other dermatophytoses","Other dermatophytoses",Dx
+B35,B359,1,"Dermatophytosis unspecified","Dermatophytosis unspecified",Dx
+B36,B36,0,"Other superficial mycoses","Other superficial mycoses",Dx
+B36,B360,1,"Pityriasis versicolor","Pityriasis versicolor",Dx
+B36,B361,1,"Tinea nigra","Tinea nigra",Dx
+B36,B362,1,"White piedra","White piedra",Dx
+B36,B363,1,"Black piedra","Black piedra",Dx
+B36,B368,1,"Other specified superficial mycoses","Other specified superficial mycoses",Dx
+B36,B369,1,"Superficial mycosis unspecified","Superficial mycosis unspecified",Dx
+B37,B37,0,Candidiasis,Candidiasis,Dx
+B37,B370,1,"Candidal stomatitis","Candidal stomatitis",Dx
+B37,B371,1,"Pulmonary candidiasis","Pulmonary candidiasis",Dx
+B37,B372,1,"Candidiasis of skin and nail","Candidiasis of skin and nail",Dx
+B37,B373,1,"Candidiasis of vulva and vagina","Candidiasis of vulva and vagina",Dx
+B37,B374,0,"Candidiasis of other urogenital sites","Candidiasis of other urogenital sites",Dx
+B37,B3741,1,"Candidal cystitis and urethritis","Candidal cystitis and urethritis",Dx
+B37,B3742,1,"Candidal balanitis","Candidal balanitis",Dx
+B37,B3749,1,"Other urogenital candidiasis","Other urogenital candidiasis",Dx
+B37,B375,1,"Candidal meningitis","Candidal meningitis",Dx
+B37,B376,1,"Candidal endocarditis","Candidal endocarditis",Dx
+B37,B377,1,"Candidal sepsis","Candidal sepsis",Dx
+B37,B378,0,"Candidiasis of other sites","Candidiasis of other sites",Dx
+B37,B3781,1,"Candidal esophagitis","Candidal esophagitis",Dx
+B37,B3782,1,"Candidal enteritis","Candidal enteritis",Dx
+B37,B3783,1,"Candidal cheilitis","Candidal cheilitis",Dx
+B37,B3784,1,"Candidal otitis externa","Candidal otitis externa",Dx
+B37,B3789,1,"Other sites of candidiasis","Other sites of candidiasis",Dx
+B37,B379,1,"Candidiasis unspecified","Candidiasis unspecified",Dx
+B38,B38,0,Coccidioidomycosis,Coccidioidomycosis,Dx
+B38,B380,1,"Acute pulmonary coccidioidomycosis","Acute pulmonary coccidioidomycosis",Dx
+B38,B381,1,"Chronic pulmonary coccidioidomycosis","Chronic pulmonary coccidioidomycosis",Dx
+B38,B382,1,"Pulmonary coccidioidomycosis unspecified","Pulmonary coccidioidomycosis unspecified",Dx
+B38,B383,1,"Cutaneous coccidioidomycosis","Cutaneous coccidioidomycosis",Dx
+B38,B384,1,"Coccidioidomycosis meningitis","Coccidioidomycosis meningitis",Dx
+B38,B387,1,"Disseminated coccidioidomycosis","Disseminated coccidioidomycosis",Dx
+B38,B388,0,"Other forms of coccidioidomycosis","Other forms of coccidioidomycosis",Dx
+B38,B3881,1,"Prostatic coccidioidomycosis","Prostatic coccidioidomycosis",Dx
+B38,B3889,1,"Other forms of coccidioidomycosis","Other forms of coccidioidomycosis",Dx
+B38,B389,1,"Coccidioidomycosis unspecified","Coccidioidomycosis unspecified",Dx
+B39,B39,0,Histoplasmosis,Histoplasmosis,Dx
+B39,B390,1,"Acute pulmonary histoplasmosis capsulati","Acute pulmonary histoplasmosis capsulati",Dx
+B39,B391,1,"Chronic pulmonary histoplasmosis capsulati","Chronic pulmonary histoplasmosis capsulati",Dx
+B39,B392,1,"Pulmonary histoplasmosis capsulati unspecified","Pulmonary histoplasmosis capsulati unspecified",Dx
+B39,B393,1,"Disseminated histoplasmosis capsulati","Disseminated histoplasmosis capsulati",Dx
+B39,B394,1,"Histoplasmosis capsulati unspecified","Histoplasmosis capsulati unspecified",Dx
+B39,B395,1,"Histoplasmosis duboisii","Histoplasmosis duboisii",Dx
+B39,B399,1,"Histoplasmosis unspecified","Histoplasmosis unspecified",Dx
+B40,B40,0,Blastomycosis,Blastomycosis,Dx
+B40,B400,1,"Acute pulmonary blastomycosis","Acute pulmonary blastomycosis",Dx
+B40,B401,1,"Chronic pulmonary blastomycosis","Chronic pulmonary blastomycosis",Dx
+B40,B402,1,"Pulmonary blastomycosis unspecified","Pulmonary blastomycosis unspecified",Dx
+B40,B403,1,"Cutaneous blastomycosis","Cutaneous blastomycosis",Dx
+B40,B407,1,"Disseminated blastomycosis","Disseminated blastomycosis",Dx
+B40,B408,0,"Other forms of blastomycosis","Other forms of blastomycosis",Dx
+B40,B4081,1,"Blastomycotic meningoencephalitis","Blastomycotic meningoencephalitis",Dx
+B40,B4089,1,"Other forms of blastomycosis","Other forms of blastomycosis",Dx
+B40,B409,1,"Blastomycosis unspecified","Blastomycosis unspecified",Dx
+B41,B41,0,Paracoccidioidomycosis,Paracoccidioidomycosis,Dx
+B41,B410,1,"Pulmonary paracoccidioidomycosis","Pulmonary paracoccidioidomycosis",Dx
+B41,B417,1,"Disseminated paracoccidioidomycosis","Disseminated paracoccidioidomycosis",Dx
+B41,B418,1,"Other forms of paracoccidioidomycosis","Other forms of paracoccidioidomycosis",Dx
+B41,B419,1,"Paracoccidioidomycosis unspecified","Paracoccidioidomycosis unspecified",Dx
+B42,B42,0,Sporotrichosis,Sporotrichosis,Dx
+B42,B420,1,"Pulmonary sporotrichosis","Pulmonary sporotrichosis",Dx
+B42,B421,1,"Lymphocutaneous sporotrichosis","Lymphocutaneous sporotrichosis",Dx
+B42,B427,1,"Disseminated sporotrichosis","Disseminated sporotrichosis",Dx
+B42,B428,0,"Other forms of sporotrichosis","Other forms of sporotrichosis",Dx
+B42,B4281,1,"Cerebral sporotrichosis","Cerebral sporotrichosis",Dx
+B42,B4282,1,"Sporotrichosis arthritis","Sporotrichosis arthritis",Dx
+B42,B4289,1,"Other forms of sporotrichosis","Other forms of sporotrichosis",Dx
+B42,B429,1,"Sporotrichosis unspecified","Sporotrichosis unspecified",Dx
+B43,B43,0,"Chromomycosis and pheomycotic abscess","Chromomycosis and pheomycotic abscess",Dx
+B43,B430,1,"Cutaneous chromomycosis","Cutaneous chromomycosis",Dx
+B43,B431,1,"Pheomycotic brain abscess","Pheomycotic brain abscess",Dx
+B43,B432,1,"Subcutaneous pheomycotic abscess and cyst","Subcutaneous pheomycotic abscess and cyst",Dx
+B43,B438,1,"Other forms of chromomycosis","Other forms of chromomycosis",Dx
+B43,B439,1,"Chromomycosis unspecified","Chromomycosis unspecified",Dx
+B44,B44,0,Aspergillosis,Aspergillosis,Dx
+B44,B440,1,"Invasive pulmonary aspergillosis","Invasive pulmonary aspergillosis",Dx
+B44,B441,1,"Other pulmonary aspergillosis","Other pulmonary aspergillosis",Dx
+B44,B442,1,"Tonsillar aspergillosis","Tonsillar aspergillosis",Dx
+B44,B447,1,"Disseminated aspergillosis","Disseminated aspergillosis",Dx
+B44,B448,0,"Other forms of aspergillosis","Other forms of aspergillosis",Dx
+B44,B4481,1,"Allergic bronchopulmonary aspergillosis","Allergic bronchopulmonary aspergillosis",Dx
+B44,B4489,1,"Other forms of aspergillosis","Other forms of aspergillosis",Dx
+B44,B449,1,"Aspergillosis unspecified","Aspergillosis unspecified",Dx
+B45,B45,0,Cryptococcosis,Cryptococcosis,Dx
+B45,B450,1,"Pulmonary cryptococcosis","Pulmonary cryptococcosis",Dx
+B45,B451,1,"Cerebral cryptococcosis","Cerebral cryptococcosis",Dx
+B45,B452,1,"Cutaneous cryptococcosis","Cutaneous cryptococcosis",Dx
+B45,B453,1,"Osseous cryptococcosis","Osseous cryptococcosis",Dx
+B45,B457,1,"Disseminated cryptococcosis","Disseminated cryptococcosis",Dx
+B45,B458,1,"Other forms of cryptococcosis","Other forms of cryptococcosis",Dx
+B45,B459,1,"Cryptococcosis unspecified","Cryptococcosis unspecified",Dx
